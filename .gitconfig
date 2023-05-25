@@ -2,8 +2,8 @@
 	defaultBranch = main
 
 [alias]
-	lg = log --oneline --graph
-	lsh = show --pretty="" --name-only HEAD
+	log-tree = log --oneline --graph
+	ls = show --pretty="" --name-only HEAD
 
 [user]
 	name = Carlos Castillo

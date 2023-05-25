@@ -14,13 +14,17 @@ set -g --export GOPATH "$HOME/go"
 set -g --export PNPM_HOME "$HOME/.pnpm"
 
 # bat
-set -g --export BAT_THEME "gruvbox-dark"
+set -g --export BAT_THEME "Catppuccin-mocha"
 
 # fzf
 set -g --export FZF_DEFAULT_COMMAND "fd --type f --hidden"
 set -g --export FZF_DEFAULT_COMMAND "--color=dark"
 # set -g --export FZF_DEFAULT_OPTS "--color fg:#D8DEE9,hl:#A3BE8C,fg+:#D8DEE9,bg+:#434C5E,hl+:#A3BE8C
 # --color pointer:#BF616A,info:#4C566A,spinner:#4C566A,header:#4C566A,prompt:#81A1C1,marker:#EBCB8B"
+set -g --export FZF_DEFAULT_OPTS "\
+--color=bg+:#313244,bg:#1E1E2E,spinner:#F5E0DC,hl:#F38BA8 \
+--color=fg:#CDD6F4,header:#F38BA8,info:#CBA6F7,pointer:#F5E0DC \
+--color=marker:#F5E0DC,fg+:#CDD6F4,prompt:#CBA6F7,hl+:#F38BA8"
 
 # pfetch
 set -g --export PF_INFO "ascii title os host kernel uptime memory"
