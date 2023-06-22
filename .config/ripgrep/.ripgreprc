@@ -1,8 +1,0 @@
---color=always
---hidden
---smart-case
-
---type-add
-web:*.{css,html,js,jsx,svelte,ts,tsx}
-
---glob=!{.git,node_modules}

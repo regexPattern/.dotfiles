@@ -50,7 +50,7 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/home/carlosecp/\x2ezvm/bin\x1e/home/carlosecp/\x2elocal/bin\x1e/home/carlosecp/\x2ecargo\x1e/home/carlosecp/\x2epnpm\x1e/home/carlosecp/\x2eflutter/bin\x1e/home/carlosecp/go/bin\x1e/home/carlosecp/\x2ecargo/bin\x1e/home/carlosecp/\x2edeno/bin\x1e/home/carlosecp/anaconda3/bin\x1e/home/carlosecp/\x2elocal/kitty\x2eapp/bin
+SETUVAR fish_user_paths:/home/carlosecp/\x2ecargo\x1e/home/carlosecp/\x2ezvm/bin\x1e/home/carlosecp/\x2elocal/bin\x1e/home/carlosecp/\x2epnpm\x1e/home/carlosecp/\x2eflutter/bin\x1e/home/carlosecp/go/bin\x1e/home/carlosecp/\x2ecargo/bin\x1e/home/carlosecp/\x2edeno/bin\x1e/home/carlosecp/anaconda3/bin\x1e/home/carlosecp/\x2elocal/kitty\x2eapp/bin
 SETUVAR nvm_data:/home/carlosecp/\x2elocal/share/nvm
 SETUVAR nvm_default_version:v18\x2e12\x2e1
 SETUVAR nvm_mirror:https\x3a//nodejs\x2eorg/dist

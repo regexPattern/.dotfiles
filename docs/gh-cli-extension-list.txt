@@ -1,2 +1,0 @@
-nektos/gh-act
-yusukebe/gh-markdown-preview
