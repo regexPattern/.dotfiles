@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+
+[alias]
+	log-tree = log --oneline --graph
+	ls = show --pretty="" --name-only HEAD
+
+[user]
+	name = Carlos Castillo
+	email = 47466248+regexPattern@users.noreply.github.com

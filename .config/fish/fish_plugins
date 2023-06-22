@@ -1,3 +1,4 @@
 halostatue/fish-docker@v1.x
 ankitsumitg/docker-fish-completions
 catppuccin/fish
+jorgebucaran/nvm.fish
